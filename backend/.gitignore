@@ -1,0 +1,7 @@
+# Node modules
+/node_modules
+
+# Other files to ignore
+package-lock.json
+npm-debug.log
+.DS_Store
